@@ -1,0 +1,60 @@
+{
+  "medications": [
+    {
+      "id": 1,
+      "name": "Acemiz ",
+      "expirationDate": "2025-06-06",
+      "quantity": 5,
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "Acton",
+      "expirationDate": "2026-01-01",
+      "quantity": 10,
+      "price": 0
+    },
+    {
+      "id": 3,
+      "name": "Calpol",
+      "expirationDate": "2025-10-10",
+      "quantity": 10,
+      "price": 0
+    },
+    {
+      "id": 4,
+      "name": "Dolo",
+      "expirationDate": "2026-01-07",
+      "quantity": 3,
+      "price": 0
+    },
+    {
+      "id": 5,
+      "name": "Lupirtin Tablet",
+      "expirationDate": "2024-12-04",
+      "quantity": 5,
+      "price": 0
+    },
+    {
+      "id": 6,
+      "name": "crocin",
+      "expirationDate": "2025-12-23",
+      "quantity": 5,
+      "price": 0
+    },
+    {
+      "id": 7,
+      "name": "Crocin Advance",
+      "expirationDate": "12-12-12",
+      "quantity": 1,
+      "price": 0
+    },
+    {
+      "id": 8,
+      "name": "parcetamol",
+      "expirationDate": "2025-06-06",
+      "quantity": 5,
+      "price": 0
+    }
+  ]
+}

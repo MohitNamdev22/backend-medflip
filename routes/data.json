@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mohit",
+      "password": "mohit2003"
+    },
+    {
+      "id": 2,
+      "username": "sahu",
+      "password": "23"
+    },
+    {
+      "id": 3,
+      "username": "hitika",
+      "password": "hittu"
+    },
+    {
+      "id": 4,
+      "username": "mustafa",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "username": "mohitsahu",
+      "password": "mohit123"
+    },
+    {
+      "id": 6,
+      "username": "abc",
+      "password": "abc"
+    },
+    {
+      "id": 7,
+      "username": "yatishjain",
+      "password": "yatish123"
+    },
+    {
+      "id": 8,
+      "username": "mitushi",
+      "password": "123"
+    }
+  ]
+}
